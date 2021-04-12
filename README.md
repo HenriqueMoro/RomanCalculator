@@ -27,7 +27,10 @@ $ yarn start
 
 # O servidor inciará na porta:19002 - acesse <http://localhost:19002>
 ```
-
+### 🛠 Imagens
+![](https://user-images.githubusercontent.com/61850881/114326558-be9f7980-9b0b-11eb-8daf-3b5f33350ca8.jpeg)
+![](https://user-images.githubusercontent.com/61850881/114326560-c19a6a00-9b0b-11eb-8295-0685089c1602.jpeg)
+![](https://user-images.githubusercontent.com/61850881/114326552-b8a99880-9b0b-11eb-901a-37e08d050d2d.jpeg)
 
 ### 🛠 Tecnologias
 
