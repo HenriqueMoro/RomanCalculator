@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Uma calculadora que realiza calculos de um ou mais números romanos
+Um aplicativo feito em React Native, que realiza calculos atravez das quatro operações em um ou mais números romanos, sendo o input e output em algarismos romanos.
 
 ### Pré-requisitos
 
